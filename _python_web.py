@@ -1,6 +1,6 @@
 """
 Develeper(s): JHL(Jeremy)
-FROM:jeremyables42@yahoo.com
+FROM: jeremyables42@yahoo.com
 _Tested in Windows 10
 
 """
